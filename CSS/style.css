@@ -1,0 +1,36 @@
+body{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.header{
+    background-image: linear-gradient( rgba(77, 73, 73, 0.55),  rgba( 0,0,0,0.55)), url(../img/BG2.jpg);
+    background-size:cover;
+    height: 100vh;
+}
+/* .image{
+    width: 250px;
+    height: 250px;
+    border-radius: 50%;
+    border: 1px solid #f79f91;
+    margin: 0 auto;
+    overflow: hidden;
+} */
+}
+.desc{
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: italic;
+    letter-spacing: 1px;
+    word-spacing: 1px;
+}
+.pic2{
+    width: 250px;
+    height: 250px;
+    margin: 0 auto;
+    overflow: hidden
+}
+.surfs{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    letter-spacing: 2px;
+    word-spacing: 1px;
+}
