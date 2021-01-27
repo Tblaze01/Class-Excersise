@@ -4,7 +4,7 @@ body{
     box-sizing: border-box;
 }
 .header{
-    background-image: linear-gradient( rgba(77, 73, 73, 0.55),  rgba( 0,0,0,0.55)), url(../img/BG2.jpg);
+    background-image: linear-gradient( rgba(78, 85, 88, 0.37),  rgba(41, 40, 40, 0.63)), url(../img/unsplash2.jpg);
     background-size:cover;
     height: 100vh;
 }
@@ -33,4 +33,29 @@ body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     letter-spacing: 2px;
     word-spacing: 1px;
+}
+.picture3{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+    border: 2px solid #444140;
+    margin: 0 auto;
+    overflow: hidden;
+}
+.img{
+    width: 100%;
+    height: auto;
+}
+.First{
+    color:wheat;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: ;
+    font-size: 30px;
+}
+#footer{
+background:linear-gradient(rgba(0, 0, 0, 0.849), rgba(2, 1, 1, 0.945)), url(../img/BG4.jpg);
+background-size: cover;
+background-position: center;
+height: 42vh;
+
 }

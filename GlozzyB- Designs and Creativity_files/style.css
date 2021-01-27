@@ -11,28 +11,28 @@
   }
 /* Header section */
 header{
-    background: url(../img/IMG-20200530-WA0003.jpg) center center;
+    background:linear-gradient(rgba(104, 103, 103, 0.55), rgba(36, 19, 25, 0.815)),url(../img/unsplash1.jpg) center center;
     background-size: cover;
     height: 100vh;
 }
 .navbar{
-    background: transparent;
+    background:transparent;
 }
 .custom-toggler .navbar-toggler-icon {
     background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
 }
 .navbar-brand{
     text-transform: uppercase;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     letter-spacing: 2px;
     color: #f79f91;
-    font-weight: bold;
+    font-weight: bolder;
 }
 .navbar-brand:hover{
-    color: #f79f91;
+    color: #ddd7d6;
 }
 .nav-link{
-    color: #fff;
+    color: rgba(196, 193, 193, 0.815);
     letter-spacing: 1px;
     text-transform: uppercase;
 }
